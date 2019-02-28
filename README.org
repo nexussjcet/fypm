@@ -1,0 +1,29 @@
+#+TITLE: FYPM19
+#+AUTHOR: Abraham Raji
+#+EMAIL: abrahamraji99@gmail.com
+#+STARTUP: overview
+#+CREATOR: avronr
+#+LANGUAGE: en
+
+*Pre-FYPM Zonal Meetups* are the curtain raiser events to FOSS Young Professional Meet (FYPM) and participants get to know what they can experience in FYPM.
+
+* Agenda
+
+- What to expect for FYPM? 
+- Introduction to Industry 4.0
+- Women in technology
+- Open Forum
+
+* Dates & Venue
+
+| Date         | Venue                                                                                |
+|--------------+--------------------------------------------------------------------------------------|
+| 29th January | National Institute of Technology, Calicut (Zone 2 - Wayanad, Kozhikode & Malappuram) |
+| 30th January | FISAT, Angamaly (Zone 3 - Thrissur, Palakkad & Ernakulam)                            |
+| 31st January | SJCET, Pala (Zone 4 - Idukki & Kottayam)                                             |
+| 1st February | College of Engineering, Chengannur (Zone 5 - Alappuzha & Pathanamthitta)             |
+| 2nd February | College of Engineeering, Attingal (Zone 6 - Kollam & Trivandrum)                     |
+|--------------+--------------------------------------------------------------------------------------|
+
+* Event at SJCET, Palai
+The Pre-FYPM meetup was organized by The Nexus,SJCET. It was held at main block seminar hall from 1:00 pm to 4:30 pm. There were a total of 45 participants from various colleges such as SJCET Palai, GEC Idukki, Amal Jyothi College of Engineering and Technology Kanjirappally, College of Engineering Kidangoor etc. The opening keynote was given by Ms. Anjali G (Technical Coordinator, ICFOSS) which was regarding what to expect from FYPM and woman in technology. It was followed by an introduction to Industry 4.0 and how it's relevant to students today by Sahul Hameed (Consultant, ICFOSS). After this the event progressed into an open forum where the students and faculty discussed challenges faced by FOSS clubs and possible future collaborations with ICFOSS.
